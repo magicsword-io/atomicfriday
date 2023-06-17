@@ -1,2 +1,0 @@
-# atomicfriday
-atomicfriday.com site
